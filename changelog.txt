@@ -15,6 +15,6 @@ Re-added **continue button**
 
 Added **account switcher**
 
-Added time in top left
+Added **time** in top left
 
-Too much stuff to write
+**Too much** stuff to write
