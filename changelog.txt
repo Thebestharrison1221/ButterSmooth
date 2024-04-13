@@ -9,7 +9,7 @@ Toggled essential **off by default**
 
 Added **pause message**
 
-**Fixed** so much bugs
+**Fixed** so much **bugs**
 
 Re-added **continue button**
 
