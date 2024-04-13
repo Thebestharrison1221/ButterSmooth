@@ -7,9 +7,9 @@ Added toggle mods
 
 Toggled essential **off by default**
 
-Added pause message
+Added **pause message**
 
-Fixed so much bugs
+**Fixed** so much bugs
 
 Re-added **continue button**
 
