@@ -1,2 +1,14 @@
-# Version X changelog
-- Wow  **smoother**
+# Version X
+- Smoother and **more optimized**
+
+- Complete **UI revamp**
+
+- Added toggle mods
+
+- Toggled essential **off by default**
+
+- Added pause message
+
+- Fixed so much bugs
+
+- Too much stuff to write
