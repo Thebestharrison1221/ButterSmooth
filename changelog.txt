@@ -1,14 +1,14 @@
 # Version X
-- Smoother and **more optimized**
+Smoother and **more optimized**
 
-- Complete **UI revamp**
+Complete **UI revamp**
 
-- Added toggle mods
+Added toggle mods
 
-- Toggled essential **off by default**
+Toggled essential **off by default**
 
-- Added pause message
+Added pause message
 
-- Fixed so much bugs
+Fixed so much bugs
 
-- Too much stuff to write
+Too much stuff to write
