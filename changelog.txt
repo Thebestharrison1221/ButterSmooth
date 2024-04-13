@@ -11,4 +11,10 @@ Added pause message
 
 Fixed so much bugs
 
+Re-added **continue button**
+
+Added **account switcher**
+
+Added time in top left
+
 Too much stuff to write
